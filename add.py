@@ -1,12 +1,4 @@
-x = 5
-y = 10
-print("THE NUMBERS 5 & 10 ADD =",x + y)
+x = int(input("ENTER A NUMBER1 :"))
 
-print("---------------------------------------------------------------------")
- 
-# Python Program to Convert seconds
-# into hours, minutes and seconds
- 
-Minutes = int(input("Type an amount of time in minutes: "))
-Seconds = Minutes * 60
-print(Minutes, "Minutes =", Seconds, "Seconds")
+y =int(input("ENTER A NUMBER2 :"))
+print("THE NUMBERS 5 & 10 ADD =",x + y)
